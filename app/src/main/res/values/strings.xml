@@ -3,4 +3,5 @@
     <string name="latLong">Longitude: %f, Latitude: %f</string>
     <string name="enable_gps">Please enable your gps</string>
     <string name="permission_request">App requires location permission</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
